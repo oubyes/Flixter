@@ -80,7 +80,7 @@ gem 'carrierwave'
 gem "mini_magick"
 gem 'ranked-model'
 
-
+gem 'jquery-ui-rails'
 gem 'carrierwave-aws'
 
 source 'https://rails-assets.org' do
